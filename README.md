@@ -1,4 +1,4 @@
-# Mini-DataScience-Sales-Project
+# Mini-Data Analysis-Sales-Project
 
 A mini-sales project written in Python using various data analysis libraries.
 
